@@ -1,0 +1,9 @@
+#!/bin/sh
+#
+# Perform necessary cob_index removal steps
+# after package is uninstalled.
+#
+
+echo "cob_index has been uninstalled!"
+
+exit 0
